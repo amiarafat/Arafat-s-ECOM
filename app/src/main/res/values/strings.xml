@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arafat E-COM</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+
+    <!--Facebook Login-->
+    <string name="facebook_app_id">473784433234955</string>
+    <string name="fb_login_protocol_scheme">fb473784433234955</string>
+
+    <!--Google SignIN-->
+    <string name="client_id">792580938033-pcghch2jd2b6fgtkdf930n8ktnc5fdl3.apps.googleusercontent.com</string>
+    <string name="client_secret">_zBqUwK25ou7tlIpxA8-X04z</string>
+</resources>
